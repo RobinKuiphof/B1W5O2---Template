@@ -1,0 +1,49 @@
+body{
+background-color: white;
+background-image: url("voorbeeld/header_bg.jpg");
+background-size: cover;
+}
+.boss{
+width: 302px;
+margin-top: 215px;
+margin-right: 523.5px;
+margin-left: 523.5px;  
+}
+i{	
+display: inline-block;
+font-size: 35px;
+color: grey;
+width: 45px;
+margin-left: 75px;
+
+}
+div{
+width: 850px;
+margin-top: 50px;
+margin-left: 235px;
+}
+span span{
+	display: inline-block;
+	width: 45px;
+	color: gray;
+	text-align: center;
+	margin-top: 10px;
+}
+.home2{
+	margin-left: 75px; 
+}
+.features2{
+	margin-left: 58px;
+}
+.pages2{
+	margin-left: 84px;	
+}
+.portofolio2{
+	margin-left: 55px;	
+}
+.blog2{
+	margin-left: 97px;	
+}
+.contact2{
+	margin-left: 63px;	
+}
