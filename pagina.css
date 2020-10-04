@@ -1,15 +1,17 @@
 body{
-background-color: white;
 background-image: url("voorbeeld/header_bg.jpg");
-background-size: cover;
+background-color: white;
+background-repeat: no-repeat;
+background-position: 0px 51px;
+background-size: 1349px 667px;
 }
 .boss{
 width: 302px;
-margin-top: 215px;
+margin-top: 156px;
 margin-right: 523.5px;
 margin-left: 523.5px;  
 }
-i{	
+span i{	
 display: inline-block;
 font-size: 35px;
 color: grey;
@@ -17,17 +19,18 @@ width: 45px;
 margin-left: 75px;
 
 }
-div{
-width: 850px;
+div.menu2{
+width: 900px;
 margin-top: 50px;
 margin-left: 235px;
 }
 span span{
 	display: inline-block;
 	width: 45px;
-	color: gray;
+	color: rgba(255, 255, 255, 0.8);
 	text-align: center;
 	margin-top: 10px;
+	font-family: 'Roboto', sans-serif;
 }
 .home2{
 	margin-left: 75px; 
@@ -46,4 +49,32 @@ span span{
 }
 .contact2{
 	margin-left: 63px;	
+}
+.logo{
+	margin-left: 1080px;
+	font-size: 13px;
+}
+.logo i{
+	background-color: lightgray;	
+	background-size: 46.25px;
+	color: white;
+	padding: 15px;
+	margin: 0px;
+}
+.fab.fa-facebook-f{
+	padding-left: 19px;
+	padding-right: 19px;
+}
+h1{
+	text-align: center;
+	margin-top: 300px;
+	color: white;
+}
+p{
+	text-align: center;
+	color: white;
+	margin: 10px;
+}
+.locatie{
+	margin-left: 80px;
 }
